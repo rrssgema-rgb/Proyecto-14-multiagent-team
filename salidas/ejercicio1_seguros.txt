@@ -1,0 +1,23 @@
+PROYECTO 14 - EJERCICIO 1
+EQUIPO DE DOS AGENTES DE SEGUROS
+
+Consulta: ¿Qué cubre mi seguro si se rompe el parabrisas del vehículo?
+
+RESPUESTA FINAL
+Estimado asegurado,
+
+Me alegra poder informarle sobre la cobertura de su seguro en caso de que se rompa el parabrisas de su vehículo. Después de realizar una exhaustiva investigación documental, hemos encontrado la siguiente información relevante:
+
+* En la página 1 de la póliza, se menciona que la cobertura cubre la reposición de lunas, cristales y parabrisas. (Página 1, punto 1)
+* Sin embargo, en la página 5 de la póliza, se menciona que no se especifica explícitamente si cubre el parabrisas. (Página 5, punto 1)
+* En la página 6 de la póliza, se menciona que el seguro cubre la reposición o reparación de lunas, cristales y parabrisas. (Página 6)
+
+Aunque no se especifican las condiciones y límites de esa cobertura, podemos afirmar que la póliza cubre la reposición o reparación de lunas, cristales y parabrisas. Sin embargo, no podemos confirmar si la cobertura incluye la reparación del parabrisas o si hay exclusiones específicas relacionadas con los cristales.
+
+Recomendamos consultar las condiciones generales de la póliza o contactar con la aseguradora para obtener más información y aclarar cualquier duda.
+
+Atentamente,
+[Tu nombre]
+Asistente de atención al cliente
+
+Tiempo de ejecución: 770.61 segundos

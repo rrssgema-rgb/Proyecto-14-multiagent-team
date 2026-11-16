@@ -1,0 +1,6 @@
+﻿.venv/
+__pycache__/
+*.py[cod]
+soluciones/
+PROMPTS.md
+salidas/ejercicio1_equipo.txt
